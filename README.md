@@ -1,2 +1,2 @@
 # Blackjack
-This is part of the 100 Days of Code Python Programming course by Dr. Angela Yu on Udemy. 
+Section 11: Day 11 - Beginner - The Blackjack Capstone Project
